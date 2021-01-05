@@ -1,0 +1,25 @@
+{
+  "name": "MongoDB-Modeling-SOCIAL-NETWORK",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:watch": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quangnt-dev/MongoDB-Modeling-SOCIAL-NETWORK.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quangnt-dev/MongoDB-Modeling-SOCIAL-NETWORK/issues"
+  },
+  "homepage": "https://github.com/quangnt-dev/MongoDB-Modeling-SOCIAL-NETWORK#readme",
+  "dependencies": {
+    "mongoose": "^5.11.9",
+    "nodemon": "^2.0.6"
+  }
+}
